@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+h1 {
+    color:blue;
+    background-color: yellow;
+    font-family: sans-serif;
+}
+
+.gato{
+    image-resolution: 400px;
+}
